@@ -36,15 +36,16 @@ These instructions will get you a copy of the project up and running on your loc
 
    ```bash
    git clone https://github.com/yourusername/joke-generator-app.git
+   ```
 
 2. **Navigate to the project directory**
-
-cd joke-generator-app
-
+   ```bash
+   cd joke-generator-app
+   ```
 3. **Install dependencies**
-
-dotnet restore
-
+   ```bash
+   dotnet restore
+   ```
 4. **Set up the database**
 
 Ensure your database server is running.
@@ -53,13 +54,13 @@ Update the connection string in appsettings.json to point to your database.
 
 Apply migrations to create the database schema:
 
-dotnet ef database update
-
+   ```bash
+   dotnet ef database update
+   ```
 5. **Run the application**
-
-dotnet run
-
-
+   ```bash
+   dotnet run
+   ```
 ## Usage
 After launching the app, you can:
 
