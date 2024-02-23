@@ -8,7 +8,6 @@ The Joke Generator App is a .NET-based web application developed using Visual St
 
 - **User Authentication:** Secure signup and login functionality.
 - **Joke Browsing:** Users can browse through a curated list of jokes.
-- **Favorites:** Users can mark jokes as favorites and access them easily.
 - **Contribution:** Registered users can submit new jokes for approval.
 - **Responsive Design:** Optimized for both desktop and mobile use.
 
