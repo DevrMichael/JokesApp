@@ -34,12 +34,12 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/joke-generator-app.git
+   git clone https://github.com/DevrMichael/JokesApp.git
    ```
 
 2. **Navigate to the project directory**
    ```bash
-   cd joke-generator-app
+   cd jokesapp
    ```
 3. **Install dependencies**
    ```bash
