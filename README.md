@@ -3,6 +3,8 @@
 ## Overview
 
 The Joke Generator App is a .NET-based web application developed using Visual Studio on macOS. It serves as an interactive platform for users to explore and enjoy a wide range of jokes. With built-in authorization features, the app ensures a personalized experience while maintaining user security. Jokes and their answers are stored in a robust database, allowing for efficient retrieval and management.
+![JokeApp-readme](https://github.com/DevrMichael/JokesApp/assets/88589247/2b26efd8-22f8-4f83-91e7-bbb2cb44fb6a)
+![JokeApp-login](https://github.com/DevrMichael/JokesApp/assets/88589247/cf0a3b98-69c6-4d67-a3ed-51367a3974a5)
 
 ## Features
 
